@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.first-color { 
+	background: #66bfbf; 
+}
+	
+.second-color { 
+	background: #eaf6f6; 
+}
+
+.third-color { 
+	background: #fcfefe; 
+}
+
+.fourth-color { 
+	background: #f76b8a; 
+}
+
+hr {
+    border: dotted black 0.65vh;
+    border-bottom: none;
+    width: 4%;
+    margin: 2vh auto;
+  } 
